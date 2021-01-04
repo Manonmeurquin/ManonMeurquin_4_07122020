@@ -1,0 +1,8 @@
+User-Agent: *
+Sitemap: https://meurquin.github.io/ManonMeurquin_4_07112020/sitemap.xml
+
+User-Agent: Googlebot
+Disallow: /img
+
+User-Agent: Googlebot-Image
+Allow: /img
