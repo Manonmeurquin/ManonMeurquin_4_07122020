@@ -93,6 +93,7 @@ a:hover {
 .texture-paper::before {
     background: url("img/texture-paper.jpg");
     background-size: 280px 280px;
+    opacity: 0.4;
 }
 
 .b-parallax {
@@ -360,6 +361,11 @@ a:hover {
     float: right;
     position: relative;
     z-index: 2;
+}
+
+.text-present{
+    font-size: 27px;
+    color: #484848;
 }
 
 @media (min-width: 768px) {
@@ -677,7 +683,7 @@ a {
 }
 
 p {
-    font-size: 14px;
+    font-size: 16px;
 }
 
 .tight-width-whitespace {
@@ -705,7 +711,7 @@ p {
 }
 
 h2 {
-    font-size: 22px;
+    font-size: 27px;
     line-height: 1.4em;
 }
 
@@ -780,12 +786,12 @@ h4 {
 
 .btn-atomic-tangerine {
     background: #F3976C;
-    color: #FFFFFF!important;
+    color: #000000!important;
 }
 
 .btn-atomic-tangerine:hover {
     background: #c27956!important;
-    color: #FFFFFF!important;
+    color: #000000!important;
 }
 
 .ltc-white {
