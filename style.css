@@ -723,7 +723,6 @@ h3 {
 
 .text-speach{
     font-size: 18px;
-    padding: 0 15em;
     font-style: italic;
     text-transform: none;
 }
@@ -748,7 +747,7 @@ h4 {
 }
 
 .white {
-    color: #FFFFFF!important;
+    color: #000000!important;
 }
 
 .portfolio-thumb {
